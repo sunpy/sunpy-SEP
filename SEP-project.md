@@ -6,12 +6,12 @@
 * **status**: TBA
 * **discussion**: https://groups.google.com/forum/m/#!topic/sunpy-gsoc-2014/hKWRYe1ND00
 
-# Abstract
+## Abstract
 SunPy's sunpy.wcs is to be phased out and re-implemented as sunpy.coordinates, through
 the use of the API that Astropy's APE5 puts forward. Since the Astropy community have 
 merged the APE5 pull request, we should review what these changes mean for this project. 
 
-# Detailed Description
+## Detailed Description
 As part of my project, I am to use the framework defined by APE5 to create sunpy.coordinates,
 which will do the job of the older sunpy.wcs in a more efficient and acceptable manner. The
 first port of call will be to understand and chalk out use-cases from the APE5 branch that
@@ -20,7 +20,7 @@ which can be found [here](http://www.google-melange.com/gsoc/proposal/public/goo
 Secondly, by putting this SEP online, I am inviting constructive criticism and alternative 
 ideas and approaches, in a bid to improve the project design.
 
-## IPython Notebooks
+### IPython Notebooks
 
 I have hosted the notebooks in the form of GitHub Gists using the IPython Notebook Viewer. They
 can be found at -:
@@ -34,7 +34,7 @@ notebook describes the test run of two example frame classes, created by subclas
 `BaseCoordinateFrame` class in `astropy.coordinates.baseframe`. Any comments on both notebooks
 are welcome!
 
-## Discussion & Examples
+### Discussion & Examples
 
 Following from the second notebook, I propose that we implement the three coordinate systems,
  i.e., the heliographic, heliocentric and helioprojective systems in the form of low-level
@@ -72,5 +72,5 @@ if sc.is_transformable_to(HelioCentric):
 and so on.
 
 
-# Decision Rationale
+## Decision Rationale
 
