@@ -58,14 +58,14 @@ possibly even the A* algorithm to find shortest paths between two systems, and c
 
 Some examples of usage -:
 
-```from sunpy.coordinates.solarframes import HelioGraphic, HelioCentric
-SolarCoord sc = SolarCoord(HelioGraph(...))
-sc.represent_as(Stonyhurst)
-sc.represent_as(Carrington)
+    from sunpy.coordinates.solarframes import HelioGraphic, HelioCentric
+    SolarCoord sc = SolarCoord(HelioGraph(...))
+    sc.represent_as(Stonyhurst)
+    sc.represent_as(Carrington)
 
-sc2 = None
-if sc.is_transformable_to(HelioCentric):
-    sc2 = sc.transform_to(HelioCentric) # Transforms to HelioCentric with Earth Equitorial as preferred rep.```
+    sc2 = None
+    if sc.is_transformable_to(HelioCentric):
+        sc2 = sc.transform_to(HelioCentric) # Transforms to HelioCentric with Earth Equitorial as preferred rep.
 
 and so on.
 
