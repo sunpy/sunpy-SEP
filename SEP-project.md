@@ -65,9 +65,7 @@ sc.represent_as(Carrington)
 
 sc2 = None
 if sc.is_transformable_to(HelioCentric):
-    sc2 = sc.transform_to(HelioCentric) # Transforms to HelioCentric with Earth Equitorial as preferred rep.
-
-```
+    sc2 = sc.transform_to(HelioCentric) # Transforms to HelioCentric with Earth Equitorial as preferred rep.```
 
 and so on.
 
