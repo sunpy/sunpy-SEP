@@ -32,12 +32,10 @@ meaningful to the Astropy/SunPy user. They are subclassed from the `CoordinateRe
 abstract class. They are made to store the actual spatial information of a coordinate as a 
 set of `Quantity` subclasses. They also provide methods to invoke transformations between
 systems. 
-2. **Low-Level**: These classes are to serve as descriptions of -:
-* Coordinate frames, and
-* Containers around the data.
-
-They subclass from `CoordinateFrame`. Note that a pure frame is one that does not have any
-coordinate data, while a frame that does have such data becomes a coordinate.
+2. **Low-Level**: These classes are to serve as descriptions of both coordinate frames and
+act as containers around the data. They subclass from `CoordinateFrame`. Note that a pure 
+frame is one that does not have any coordinate data, while a frame that does have such data 
+becomes a coordinate.
 3. **High-Level**: These classes wrap around the low-level classes and use their functionality.
 They provide additional functionality to make the low-level classes easier to use. Astropy uses
 the `SkyCoord` class to this end.
