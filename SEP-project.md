@@ -73,14 +73,17 @@ low-level frame classes with `SkyCoord` for immediate usage.
 
 Some examples of usage -:
 
-    from sunpy.coordinates.solarframes import HelioGraphic, HelioCentric
-    SolarCoord sc = SolarCoord(HelioGraph(...))
-    sc.represent_as(Stonyhurst)
-    sc.represent_as(Carrington)
+    from sunpy.coordinates.frames import HelioGraphicStonyhurst, HelioCentric
+    from astropy.coordinates import SkyCoord
+    from astropy import units as u
 
+    SkyCoord sc = SkyCoord(1*u.deg, 1*u.deg, 1*u.km, frame='heliographicstonyhurst',
+			   dateobs='2011/01/01T00:00:45')
+    print(sc.represent_as('heliocentric'))
+    
     sc2 = None
-    if sc.is_transformable_to(HelioCentric):
-        sc2 = sc.transform_to(HelioCentric) # Transforms to HelioCentric with Earth Equitorial as preferred rep.
+    if sc.is_transformable_to('heliocentric'):
+        sc2 = sc.transform_to('heliocentric') # Transforms to HelioCentric with Earth Equitorial as preferred rep.
 
 and so on.
 
