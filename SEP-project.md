@@ -63,17 +63,13 @@ Viewer. They can be found at the following and be used for reference -:
 
 ### The Proposed sunpy.coordinates Sub-Package
 
-Following from the second notebook, it is proposed that we implement the three coordinate systems,
- i.e., the heliographic, heliocentric and helioprojective systems in the form of low-level
-frame classes - `HelioGraphic`, `HelioCentric` and `HelioProjective`. These will be made to
-subclass from `BaseCoordinateFrame` and inherit its methods and properties.
+It is proposed that we implement the three coordinate systems, i.e., the heliographic, heliocentric and helioprojective systems in the form of low-level frame classes - `HelioGraphic`, 
+`HelioCentric` and `HelioProjective`. These will be made to subclass from 
+`BaseCoordinateFrame` and inherit its methods and properties.
 
-The case of `SkyCoord` not yet supporting the Cartesian representation out of the box has
-been the subject of debate. The conclusion of this debate points to the fact that it would
-be beneficial for SunPy if `SkyCoord` were to be patched to support such representations.
-Thus, one would simply have to wrap around SunPy's low-level frame classes with `SkyCoord`
-for immediate usage. The focus, then, shall have to be on the frame classes. A separate 
-patch can be made upstream to the Astropy repository for Cartesian etc support.
+Astropy's `SkyCoord` provides support for Cartesian, Spherical, UnitSpherical and
+Cylindrical representations. Thus, one would simply have to wrap around SunPy's 
+low-level frame classes with `SkyCoord` for immediate usage.
 
 Some examples of usage -:
 
