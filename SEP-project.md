@@ -77,15 +77,36 @@ Some examples of usage -:
     from astropy.coordinates import SkyCoord
     from astropy import units as u
 
-    SkyCoord sc = SkyCoord(1*u.deg, 1*u.deg, 1*u.km, frame='heliographicstonyhurst',
-			   dateobs='2011/01/01T00:00:45')
+    # Some ways to initialize a `SkyCoord` object.
+    # In Heliographic Stonyhurst frames, one can declare so -:
+    sc = SkyCoord(
+        1*u.deg, 1*u.deg, 1*u.km, frame='heliographicstonyhurst', 
+        dateobs='2011/01/01T00:00:45'
+    )
+    print(sc)
+    # We can represent the data as another frame.
     print(sc.represent_as('heliocentric'))
+
+    # One could also not give the distance/radius input, and it will
+    # default to solar radius.
+    sc = SkyCoord(
+        1*u.deg, 1*u.deg, frame='heliographicstonyhurst', 
+        dateobs='2011/01/01T00:00:45'
+    )
+    print(sc)
+
+    # It is also possible to provide the representation-specific args as a 
+    # `BaseRepresentation` object.
+    from sunpy.coordinates.representation import SphericalWrap180Representation
+    sc = SkyCoord(
+        SphericalWrapRepresentation180(1*u.deg, 1*u.deg, 1*u.km), 
+        frame='helioprojective', dateobs='2011/01/01T00:00:45'
+    )
+    print(sc)
     
     sc2 = None
     if sc.is_transformable_to('heliocentric'):
         sc2 = sc.transform_to('heliocentric') # Transforms to HelioCentric with Earth Equitorial as preferred rep.
-
-and so on.
 
 
 ## Decision Rationale
