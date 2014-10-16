@@ -13,5 +13,5 @@ A short description of the SEP including a statement of the problem the SEP is s
 # Detailed Description
 If this is a standard SEP this section should contain usage examples.
 
-# Decision Rational
+# Decision Rationale
 This is a great idea because...
