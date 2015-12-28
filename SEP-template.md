@@ -1,13 +1,16 @@
-# Header
-* **author(s)**: First Last, First Last
-* **contact email**: me@myemail.org
-* **date-creation**: YYYY-MM-DD
-* **date-last-revision**: YYYY-MM-DD
-* **type**: standard/process
-* **status**: accepted/rejected
-* **discussion**: link to discussion on mailing list
+# SEP-num -- SEP Title
 
-# Abstract
+| SEP           | num |
+|---------------|---|
+| title         | SEP Title |
+| author(s)     | First Last, First Last |
+| contact email | me@myemail.org |
+| date-creation | YYYY-MM-DD |
+| type          | process |
+| status        | accepted or rejected |
+| discussion    | link to discussion if available |
+
+# Introduction
 A short description of the SEP including a statement of the problem the SEP is seeking to solve
 
 # Detailed Description
