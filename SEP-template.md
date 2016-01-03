@@ -6,9 +6,9 @@
 | author(s)     | First Last, First Last |
 | contact email | me@myemail.org |
 | date-creation | YYYY-MM-DD |
-| type          | process |
+| type          | process, standard, informational |
+| status        | discussiom, accepted, rejected |
 | discussion    | link to discussion if available |
-| status        | accepted or rejected |
 
 # Introduction
 A short description of the SEP including a statement of the problem the SEP is seeking to solve
