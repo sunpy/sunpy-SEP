@@ -18,7 +18,7 @@ by a vote by the SunPy Board.
 
 For a complete index see SEP-0000 this is reproduced here for convenience of navigation.
 
-| Number | Title                                                      |
+| Number | Title                                                       |
 |--------|-------------------------------------------------------------|
 |      1 | [SEP Purpose and Guidelines](./SEP-0001.md)                 |
 |      2 | [SunPy Organization Definition](./SEP-0002.md)              |
