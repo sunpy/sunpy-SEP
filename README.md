@@ -27,4 +27,5 @@ For a complete index see SEP-0000 this is reproduced here for convenience of nav
 |      5 | [Coordinates Module](./SEP-0005.md)                         |
 |      6 | [SunPy Board Membership List](./SEP-0006.md)                |
 |      7 | [Lightcurve Factory Refactor](./SEP-0007.md)                |
-|      8 | [Astropy Time](./SEP-0008.md)                                |
+|      8 | [Astropy Time](./SEP-0008.md)                               |
+|      9 | [Release Pattern for SunPy Core](./SEP-0009.md)             |
