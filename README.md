@@ -42,5 +42,8 @@ Go to https://zenodo.org/deposit/new, upload the .md file, and set the fields to
 |Title                        | SunPy Proposal for Enhancement <number>: <title> (SEP <number>)|
 |Authors                      | The SEP authors (directly from the SEP text with ORCIDs if possible)|
 |Description                  | The SEP description (usually the introduction)|
+|Keywords                     | SunPy, Python, Solar, Astronomy
 |License                      | CC-Attribution|
 |Related/alternate identifiers| Github link to the SEP *at the latest commit* as "is supplemented by this upload". If this is a revised version, this should be the URL of the commit where the SEP was revised.|
+  
+Also add to the SunPy Project community.
