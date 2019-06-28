@@ -3,12 +3,12 @@
 | SEP           | num                              |
 |---------------|----------------------------------|
 | title         | SEP Title                        |
-| author(s)     | First Last, First Last           |
+| author(s)     | [First Last](https://orcid.org/0000-0000-0000-0000)<br>First Last           |
 | contact email | me@myemail.org                   |
 | date-creation | YYYY-MM-DD                       |
 | type          | process, standard, informational |
-| status        | discussiom, accepted, rejected   |
 | discussion    | link to discussion if available  |
+| status        | discussiom, accepted, rejected   |
 
 # Introduction
 A short description of the SEP including a statement of the problem the SEP is seeking to solve
