@@ -18,14 +18,14 @@ by a vote by the SunPy Board.
 
 For a complete index see SEP-0000 this is reproduced here for convenience of navigation.
 
-| Number | Title                                                       |
-|--------|-------------------------------------------------------------|
-|      1 | [SEP Purpose and Guidelines](./SEP-0001.md)                 |
-|      2 | [SunPy Organization Definition](./SEP-0002.md)              |
-|      3 | [Physical Units in SunPy](./SEP-0003.md)                    |
-|      4 | [Packages Affiliated with the SunPy Project](./SEP-0004.md) |
-|      5 | [Coordinates Module](./SEP-0005.md)                         |
-|      6 | [SunPy Board Membership List](./SEP-0006.md)                |
-|      7 | [Lightcurve Factory Refactor](./SEP-0007.md)                |
-|      8 | [Astropy Time](./SEP-0008.md)                               |
-|      9 | [Release Pattern for SunPy Core](./SEP-0009.md)             |
+| number | type          | title                                       | DOI |
+|--------|---------------|---------------------------------------------|-----|
+|      1 | informational | [SEP Purpose and Guidelines](./SEP-0001.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261403.svg)](https://doi.org/10.5281/zenodo.3261403) |
+|      2 | process       | [SunPy Organization Definition](./SEP-0002.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261663.svg)](https://doi.org/10.5281/zenodo.3261663) |       
+|      3 | standard      | [Physical Units in SunPy](./SEP-0003.md) |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261707.svg)](https://doi.org/10.5281/zenodo.3261707) |           
+|      4 | process       | [Packages Affiliated with the SunPy Project](./SEP-0004.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261752.svg)](https://doi.org/10.5281/zenodo.3261752) |
+|      5 | standard      | [Coordinates Module](./SEP-0005.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261768.svg)](https://doi.org/10.5281/zenodo.3261768) |
+|      6 | informational | [SunPy Board Membership List](./SEP-0006.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261786.svg)](https://doi.org/10.5281/zenodo.3261786) |
+|      7 | standard      | [Lightcurve Factory Refactor](./SEP-0007.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261788.svg)](https://doi.org/10.5281/zenodo.3261788) |          
+|      8 | standard      | [Astropy Time](./SEP-0008.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261794.svg)](https://doi.org/10.5281/zenodo.3261794) |
+|      9 | process       | [Release Pattern for SunPy Core](./SEP-0009.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261800.svg)](https://doi.org/10.5281/zenodo.3261800) | 
