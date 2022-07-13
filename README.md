@@ -28,6 +28,8 @@ For a complete index see [SEP-0000](SEP-0000.md) this is reproduced here for con
 |      7 | standard      | [Lightcurve Factory Refactor](./SEP-0007.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261788.svg)](https://doi.org/10.5281/zenodo.3261788) |          
 |      8 | standard      | [Astropy Time](./SEP-0008.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261794.svg)](https://doi.org/10.5281/zenodo.3261794) |
 |      9 | process       | [Release Pattern for SunPy Core](./SEP-0009.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261800.svg)](https://doi.org/10.5281/zenodo.3261800) | 
+|     10 | informational | [Vision and Mission Statement](./SEP-0010.md)
+|     12 | standard      | [NDCube 2](./SEP-0012.md)
 
 # Uploading an SEP to Zenodo
 
