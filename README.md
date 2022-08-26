@@ -30,7 +30,6 @@ For a complete index see [SEP-0000](SEP-0000.md) this is reproduced here for con
 |      9 | process       | [Release Pattern for SunPy Core](./SEP-0009.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261800.svg)](https://doi.org/10.5281/zenodo.3261800) | 
 |     10 | informational | [Vision and Mission Statement](./SEP-0010.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7020094.svg)](https://doi.org/10.5281/zenodo.7020094) |
 |     12 | standard      | [NDCube 2](./SEP-0012.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7020103.svg)](https://doi.org/10.5281/zenodo.7020103)
-|
 
 # Uploading an SEP to Zenodo
 
