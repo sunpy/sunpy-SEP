@@ -75,9 +75,9 @@ The steering committee shall be responsible for the running of the project under
 This includes:
 
 * holding regular meetings with the developer community (at least monthly)
-* makeing regular reports to the board (at least quarterly)
+* making regular reports to the board (at least quarterly)
 * having ownership privileges to the SunPy GitHub organization
-* createing, maintaining and enforcing the SunPy code of conduct (see below)
+* creating, maintaining and enforcing the SunPy code of conduct (see below)
 * accepting or rejecting SEPs based on community consensus
 * delegating responsibility and authority to other community roles
 * planing and manage finances and financial processes of the project.
@@ -167,7 +167,6 @@ People meeting the following criteria will be invited to form the initial group 
 * Currently holds a role listed under the community roles section of the website: https://sunpy.org/project/#community-roles.
 * Is a currently serving board member.
 
-
 ### Adding New Project Members
 
 Anyone is eligible to be nominated to be a Project member, as long as they meet the criteria laid out in the Membership section above.
@@ -189,7 +188,6 @@ The name of a candidate should not be shared outside of the Project Members unti
 A public list of Project Members will be kept on the SunPy website.
 
 Nominations, discussions and any elections of Project Members should take place before the initial election of the Steering Committee.
-
 
 ### Active and Emeritus Status
 
@@ -217,7 +215,7 @@ In this case, the Steering Committee, Ombudsperson and Board will work together 
 
 # Ombudsperson
 
-The Ombudsperson represents the interests of the Astropy community by providing an alternative point of contact for sensitive issues such as code of conduct violations and ethical concerns.
+The Ombudsperson represents the interests of the SunPy community by providing an alternative point of contact for sensitive issues such as code of conduct violations and ethical concerns.
 Candidates for this project role are publicly nominated by the Board, after which at least two weeks for comment is allowed, and then the nominee must be confirmed by two-thirds of the active Project Members.
 
 The Ombudsperson has no term limit but can resign at any time, or be removed by the same process as removing a Project Member.
@@ -237,12 +235,11 @@ This change to SEP 2 will be implemented in the following stages:
 2. A communication channel private to the Project Members will be created where discussions and announcements of votes can take place.
 3. A Ombudsperson will be nominated by The Board and confimed by the initial group of project members.
 4. Nomination of new Project Members will be solicited and confirmed by the initial project members.
-5. The process for electing a the initial Steering Committee will be followed as laid out above.
+5. The process for electing the initial Steering Committee will be followed as laid out above.
 
 # Attribution
 
 This document builds on the original version of SEP 2.
 The Project Members section, in particular, is heavily inspired by Voting Members in the Astropy project's [APE 0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst), but other sections also copy from it.
-
 
 # Decision Rationale
