@@ -21,11 +21,11 @@ The SunPy project's governance involves the following five components:
 * The Project Members
 * The Steering Committee
 * The Advisory Board
-* The Ombusperson
+* The Ombudsperson
 
-The SunPy project is ultimately run by the whole community: users, developers, and members of the wider solar physics and scientific software communtiy, for the benifit of all.
-This document descibes how the project is run through delegation of this authority, primarily to the Steering Committee and the Project Members.
-Wherever possible all descisions taken should be done by consensus, considering input from both active contributors and the wider community.
+The SunPy project is ultimately run by the whole community: users, developers, and members of the wider solar physics and scientific software community, for the benefit of all.
+This document describes how the project is run through delegation of this authority, primarily to the Steering Committee and the Project Members.
+Wherever possible all decisions taken should be done by consensus, considering input from both active contributors and the wider community.
 
 ## Advisory Board
 The primary functions of the advisory board are: to advise the steering committee on management of the project, find funding for the project to ensure the core aims of the project can be met, nominate a Ombudsperson, and to ensure that the governance of the project is running as intended.
@@ -64,7 +64,7 @@ Officers shall serve one year terms and can serve consecutive terms.
 When so acting, the vice-chair shall have all the powers of and be subject to all the restrictions upon the board chair.
 
 * **Secretary**: The secretary shall be responsible for keeping the minutes of all meetings and actions of the board.
-The minutes of each meeting shall state the time and place that it was held, the members present, and such other information as shall be necessary to determine the actions taken and whether the meeting was held in accordance with the law and these Bylaws.
+The minutes of each meeting shall state the time and place that it was held, the members present, and such other information as shall be necessary to determine the actions taken and whether the meeting was held in accordance with the law and these bylaws.
 
 * **Advise and Consent**: The steering committee shall present the state of the project and future plans at meetings of the board.
 The advisory board shall advise and consent on those plans.
@@ -87,8 +87,8 @@ This includes:
 The steering committee is formed of three roles:
 
 * **The lead developer** chairs the steering committee and is responsible for holding regular (at least monthly) meetings, and ensuring that the committee is represented at all board meetings.
-* **The deputy lead developer** in the absense of the lead developer, the deputy shall perform all the duties of the lead developer.
-* **The financial officier** the financial officer is primarily responsible for ensuring the health of the project financies and setting up processes for managing expenses and reporting to the board on financial matters.
+* **The deputy lead developer** in the absence of the lead developer, the deputy shall perform all the duties of the lead developer.
+* **The financial officer** the financial officer is primarily responsible for ensuring the health of the project finances and setting up processes for managing expenses and reporting to the board on financial matters.
 
 The steering committee is elected by the **project members**.
 
@@ -99,9 +99,9 @@ If consensus can not be reached decisions can be taken by a majority vote.
 
 ### Electing the Steering Committee
 
-An election to fill a vacant role on the steering committee will occurr in two stages:
+An election to fill a vacant role on the steering committee will occur in two stages:
 
-* Nominations: No less than three weeks before an election a public annoucement of the election must be made and nominations solicited for no less than two weeks.
+* Nominations: No less than three weeks before an election a public announcement of the election must be made and nominations solicited for no less than two weeks.
 Candidates which have accepted their nomination (self nominations are allowed) should write a short statement which will be made public as soon as possible, but no later than before the election starts.
 * Election: All candidates that have written a short statement will be put to a vote of the project members and the candidate with the most votes shall be elected to the position.
 In the event that more than one position has to be filled simultaneously each election shall be treated as a separate election for the purposes of this process.
@@ -174,15 +174,15 @@ Self-nominations are encouraged.
 
 The process for adding a new Project member is as follows:
 
-1. A nomination is recieved by the steering committee.
-The steering committee, and the ombudsperson check that the nomination is factually accurate and their record of contribution to the community adheres to the Code of Conduct.
+1. A nomination is received by the steering committee.
+The steering committee, and the Ombudsperson check that the nomination is factually accurate and their record of contribution to the community adheres to the Code of Conduct.
 1. The candidate is then put to the Project Members.
 The name and nomination statement of the candidate will be shared with the Project Members.
 The candidate can become a Project member if five existing Project members approve the candidate and no Project Members call for an election within two weeks of the candidate being put to the Project Members.
-1. Project Members can call for an election either by posting in the discussion of the candidate or reaching out privetly to the Steering Committee or the Ombudsperson.
+1. Project Members can call for an election either by posting in the discussion of the candidate or reaching out privately to the Steering Committee or the Ombudsperson.
 If a vote is called for then the candidate will be come a Project Member with a simple majority of all votes cast in the election.
-An election needs to be annouced to the Project Members one week before the voting opens and voting will be open for two weeks.
-1. The candidate will be informed prompty of the outcome by the Steering Committee.
+An election needs to be announced to the Project Members one week before the voting opens and voting will be open for two weeks.
+1. The candidate will be informed promptly of the outcome by the Steering Committee.
 
 The name of a candidate should not be shared outside of the Project Members until they become a Project Member.
 A public list of Project Members will be kept on the SunPy website.
@@ -233,7 +233,7 @@ This change to SEP 2 will be implemented in the following stages:
 
 1. The list of initial Project Members will be drawn up and added to the SunPy website.
 2. A communication channel private to the Project Members will be created where discussions and announcements of votes can take place.
-3. A Ombudsperson will be nominated by The Board and confimed by the initial group of project members.
+3. A Ombudsperson will be nominated by The Board and confirmed by the initial group of project members.
 4. Nomination of new Project Members will be solicited and confirmed by the initial project members.
 5. The process for electing the initial Steering Committee will be followed as laid out above.
 
