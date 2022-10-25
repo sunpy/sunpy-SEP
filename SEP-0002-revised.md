@@ -8,10 +8,10 @@ This SEP details a new governance structure designed to enable the project to gr
 The primary role of the SunPy Project is to *facilitate and promote the use and development of community-led, free and open-source solar data-analysis software based on the scientific Python environment*.
 This includes but is not limited to the following tasks:
 
-* developing the SunPy software library
+* developing the sunpy core library and other affiliated packages
 * manage and protect the SunPy brand and identity
 * promote SunPy to the community
-* managing SunPy assets, i.e. github account, domain name etc.
+* managing SunPy assets, i.e. GitHub organization, domain name etc.
 
 # Governance Structure
 
@@ -29,48 +29,47 @@ Wherever possible all decisions taken should be done by consensus, considering i
 
 ## Advisory Board
 The primary functions of the advisory board are: to advise the steering committee on management of the project, find funding for the project to ensure the core aims of the project can be met, nominate a Ombudsperson, and to ensure that the governance of the project is running as intended.
+The board is self-electing, with members appointed by a vote of the existing board.
 
 * **Membership Limit**: The board shall consist of at least 5 members and no more than 10 members.
-Within these limits, the board may increase or decrease the number of people serving on the board, including for the purpose of staggering the terms of members.
+The board may increase or decrease the number of people serving on the board.
 
-* **Term Length**: All members shall be elected to serve a maximum of a two-year term, however the term may be extended until a successor has been elected. 
-A member may be re-elected at the end of their term.
+* **Term Length**: All members shall serve a maximum of a two-year term (from their appointment), however the term may be extended until a successor has been appointed.
+A member may be re-appointed at the end of their term.
 
 * **Staggering**: Members terms shall be staggered so that approximately half the number of members will end their terms in any given year.
-The term of office shall be considered to begin January 1 and end December 31 of the second year in office, unless the term is extended until such time as a successor has been elected.
 
 * **Vacancies**: The board may fill vacancies or may appoint new members to fill a previously unfilled board position, subject to the maximum number of members.
 The board shall fill vacancies as soon as possible.
-The board should work to ensure that the composition of the board represents a diverse cross-section of the solar physics community.
+The board should work to ensure that the composition of the board represents a diverse cross-section of the scientific community with an interest in SunPy.
 This diversity should consider things such as research topic, career stage, as well as all other forms of diversity such as gender.
 
-* **Removal**: A board member may be removed by a two-thirds majority vote of the full board, if (a) the member is absent and unexcused from 50% or more meetings of the board in a twelve month period.
-The board chair is empowered to excuse members from attendance for a reason deemed adequate by the board chair.
-The chair shall not have the power to excuse him/herself from the board meeting attendance and in that case, the board vice chair shall excuse the chair.
-Or (b) for cause or no cause, if before any meeting of the board at which a vote on removal will be made the director in question is given electronic or written notification of the board’s intention to discuss her/his case and is given the opportunity to be heard at a meeting of the board.
-The board can remove the executive director by a two-thirds majority vote of the full board for cause or no cause.
+* **Removal**: A board member may be removed by a two-thirds majority vote of the full board, if before any meeting of the board at which a vote on removal will be made the member in question is given electronic or written notification of the board’s intention to discuss their case and is given the opportunity to be heard at a meeting of the board.
+Alternatively a member of the board can be removed by a vote of the Voting Members, following the same procedure laid out below for the removal of a member of the Steering Committee.
 
-* **Meetings**:  The board shall have at least a meeting every quarter at times and places fixed by the board.
-Board meetings shall provide at least one week (7) days notice.
+* **Meetings**:  The board shall have a meeting at least every quarter at times and places fixed by the board.
+Board meetings shall provide at least one week (7 days) notice to all board members and the Steering Committee.
 Notice of meetings shall specify the place, day, and hour of meeting.
-The purpose of the meeting need not be specified.
+The purpose of the meeting needs not be specified.
 
 * **Board officers**: The officers of the board shall be a board chair, vice-chair, and secretary, all of whom shall be chosen by, and serve at the pleasure of, the board.
-Officers shall serve one year terms and can serve consecutive terms.
+Officers shall serve one year terms (as officers) and can serve consecutive terms.
 
-* **Board Chair**: The board chair shall lead the board in performing its duties and responsibilities, including, if present, leading all meetings of the board, and shall perform all other duties incident to the office or properly required by the board.
+* **Board Chair**: The board chair shall lead the board in performing its duties and responsibilities, including, if present, leading all meetings of the board.
 
 * **Vice-chair**: In the absence of the board chair, the vice-chair shall perform the duties of the board chair.
 When so acting, the vice-chair shall have all the powers of and be subject to all the restrictions upon the board chair.
 
 * **Secretary**: The secretary shall be responsible for keeping the minutes of all meetings and actions of the board.
-The minutes of each meeting shall state the time and place that it was held, the members present, and such other information as shall be necessary to determine the actions taken and whether the meeting was held in accordance with the law and these bylaws.
+The minutes of each meeting shall state the time and place that it was held, the members present, and such other information as shall be necessary to determine the actions taken.
+The minutes of all board meetings shall be made publicly accessible to the whole SunPy community.
 
 * **Advise and Consent**: The steering committee shall present the state of the project and future plans at meetings of the board.
 The advisory board shall advise and consent on those plans.
 
+
 ## The Steering Committee
-The role of the steering committee which is headed by the Lead Developer, is to manage the day to day operations of the SunPy organization.
+The role of the steering committee, which is headed by the Lead Developer, is to manage the day to day operations of the SunPy project.
 The steering committee shall be responsible for the running of the project under advisement of the board.
 This includes:
 
