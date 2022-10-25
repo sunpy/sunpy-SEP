@@ -79,7 +79,7 @@ This includes:
 * creating, maintaining and enforcing the SunPy code of conduct (see below)
 * accepting or rejecting SEPs based on community consensus
 * delegating responsibility and authority to other community roles
-* planing and manage finances and financial processes of the project.
+* planning and managing finances and financial processes of the project.
 
 ### Composition
 
