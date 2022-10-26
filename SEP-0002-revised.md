@@ -161,6 +161,7 @@ Project Membership acknowledges sustained and valuable efforts that align well w
 
 To be able to elect new Project Members an initial set of Project Members are needed.
 People meeting the following criteria will be invited to form the initial group of Project Members.
+They should consider the above responsiblities and activate agree to taking them on if they choose to accept the invitation.
 
 * Current commit access to the core repo, or any accepted affiliated package maintained by the project, and with a commit to that repository within the last 12 months.
 * Currently holds a role listed under the community roles section of the website: https://sunpy.org/project/#community-roles.
