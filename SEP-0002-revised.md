@@ -174,12 +174,12 @@ Self-nominations are encouraged.
 
 The process for adding a new Project member is as follows:
 
-1. A nomination is received by the steering committee.
+1. A nomination is received by the steering committee, a nomination should include a short, factual, statement stating how the nominee meets the criteria for project membership.
 The steering committee, and the Ombudsperson check that the nomination is factually accurate and their record of contribution to the community adheres to the Code of Conduct.
 1. The candidate is then put to the Project Members.
 The name and nomination statement of the candidate will be shared with the Project Members.
 The candidate can become a Project member if five existing Project members approve the candidate and no Project Members call for an election within two weeks of the candidate being put to the Project Members.
-1. Project Members can call for an election either by posting in the discussion of the candidate or reaching out privately to the Steering Committee or the Ombudsperson.
+1. Project Members can call for an election either by informing the Steering Committee or the Ombudsperson.
 If a vote is called for then the candidate will be come a Project Member with a simple majority of all votes cast in the election.
 An election needs to be announced to the Project Members one week before the voting opens and voting will be open for two weeks.
 1. The candidate will be informed promptly of the outcome by the Steering Committee.
@@ -187,7 +187,7 @@ An election needs to be announced to the Project Members one week before the vot
 The name of a candidate should not be shared outside of the Project Members until they become a Project Member.
 A public list of Project Members will be kept on the SunPy website.
 
-Nominations, discussions and any elections of Project Members should take place before the initial election of the Steering Committee.
+Nominations, approvals and any elections of Project Members should take place before the initial election of the Steering Committee.
 
 ### Active and Emeritus Status
 
@@ -202,8 +202,8 @@ An emeritus member may request to be marked as active at any time if they feel t
 ## Removing Project Members
 
 In exceptional circumstances, it may be necessary to remove someone from the Project Members against their will.
-A vote must be held to remove a Project Member.
-Such a vote is triggered by a motion made by an active Project Member, which must be seconded by an additional Project Member.
+A vote of the Project membership must be held to remove a Project Member.
+Such a vote is triggered by a motion (sent to the Steering Committee and the Ombudsperson) made by an active Project Member, which must be seconded by an additional Project Member.
 The vote must conclude no more than three months after the motion is seconded.
 Removal requires approval by two-thirds of all active Project Members at the time the motion is made.
 The motion, second, and vote will be by secret ballot.
