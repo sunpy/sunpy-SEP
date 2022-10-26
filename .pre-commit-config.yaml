@@ -2,13 +2,10 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.3.0
     hooks:
-      - id: check-ast
       - id: check-case-conflict
       - id: trailing-whitespace
-      - id: check-yaml
-      - id: debug-statements
       - id: check-added-large-files
-        args: ['--enforce-all','--maxkb=1054']
+        args: ['--enforce-all','--maxkb=512']
       - id: end-of-file-fixer
       - id: mixed-line-ending
   - repo: https://github.com/codespell-project/codespell
