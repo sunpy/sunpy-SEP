@@ -69,7 +69,7 @@ The advisory board shall advise and consent on those plans.
 
 
 ## The Steering Committee
-The role of the steering committee, which is headed by the Lead Developer, is to manage the day to day operations of the SunPy project.
+The role of the steering committee, which is chaired by the Lead Developer, is to manage the day-to-day operations of the project.
 The steering committee shall be responsible for the running of the project under advisement of the board.
 This includes:
 
@@ -77,13 +77,14 @@ This includes:
 * making regular reports to the board (at least quarterly)
 * having ownership privileges to the SunPy GitHub organization
 * creating, maintaining and enforcing the SunPy code of conduct (see below)
-* accepting or rejecting SEPs based on community consensus
+* accepting or rejecting SEPs based on community consensus (excluding this SEP, see below.)
 * delegating responsibility and authority to other community roles
 * planning and managing finances and financial processes of the project.
 
 ### Composition
 
-The steering committee is formed of three roles:
+The steering committee is formed of three members of the SunPy community with equal status on the committee, they do not need to be project members.
+The members of the committee are elected into three roles to help with distributing the work load, these three roles are:
 
 * **The lead developer** chairs the steering committee and is responsible for holding regular (at least monthly) meetings, and ensuring that the committee is represented at all board meetings.
 * **The deputy lead developer** in the absence of the lead developer, the deputy shall perform all the duties of the lead developer.
