@@ -95,7 +95,8 @@ The steering committee is elected by the **project members**.
 ### Decision Making
 
 The steering committee should strive to make decisions by consensus.
-If consensus can not be reached decisions can be taken by a majority vote.
+Where possible and appropriate, consensus should be reached between the members of the committee, and the whole SunPy community.
+If consensus can not be reached between the committee members, decisions can be taken by a majority vote.
 
 ### Electing the Steering Committee
 
