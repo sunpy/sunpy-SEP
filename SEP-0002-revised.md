@@ -103,9 +103,9 @@ If consensus can not be reached between the committee members, decisions can be 
 An election to fill a vacant role on the steering committee will occur in two stages:
 
 * Nominations: No less than three weeks before an election a public announcement of the election must be made and nominations solicited for no less than two weeks.
-Candidates which have accepted their nomination (self nominations are allowed) should write a short statement which will be made public as soon as possible, but no later than before the election starts.
-* Election: All candidates that have written a short statement will be put to a vote of the project members and the candidate with the most votes shall be elected to the position.
-In the event that more than one position has to be filled simultaneously each election shall be treated as a separate election for the purposes of this process.
+Candidates who have accepted their nomination (self nominations are allowed) should write a short statement supporting their candidacy, which will be made public as soon as possible, but no later than before the election starts.
+* Election: All candidates that have written statement will be put to a vote of the project members and the candidate with the most votes shall be elected to the position.
+In the event that more than one position has to be filled simultaneously each position shall be filled as if it were an independent election.
 
 ### Term
 
@@ -116,7 +116,7 @@ If there is a vacancy part way through a term, then a by-election will be held w
 For the first election of the coordinating committee, one member will have a one year term, one member a two year term and one member a three year term.
 The term length of the elected candidates may be decided between themselves, in the case agreement can not be reached the person elected to the financial officer role will serve three years, the deputy lead developer two years and the lead developer one year.
 
-### Removing Members
+### Removing Steering Committee Members
 
 In exceptional circumstances, the project members may remove one or more sitting steering committee members via a single vote.
 
