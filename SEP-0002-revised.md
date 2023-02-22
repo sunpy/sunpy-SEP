@@ -131,7 +131,7 @@ To avoid repeated removal votes, any individual Project Member who has called fo
 The project members are trusted community members with a proven track record of constructive contribution to the goals of the project.
 Collectively, the project members make decisions about the direction of the project and have authority over the project, which is delegated to the Steering Committee.
 
-Project Members are expected to act as role models for the community and custodians of the SunPy Project, on behalf of the community and all those who rely on SunPy.
+Project Members are expected to act as role models for the community and custodians of the SunPy Project, on behalf of the community and all those who rely on the SunPy Project.
 They will act as representatives of the SunPy Project, where necessary, including in online discussions or at official SunPy events.
 
 ### Responsibilities and Rights
