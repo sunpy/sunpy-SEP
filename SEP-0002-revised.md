@@ -31,7 +31,7 @@ Whenever possible all decisions taken should be done by consensus, considering i
 The primary functions of the advisory board are: to advise the steering committee on management of the project, find funding for the project to ensure the core aims of the project can be met, nominate a Ombudsperson, and to ensure that the governance of the project is running as intended.
 The board is self-electing, with members appointed by a vote of the existing board.
 
-* **Membership Limit**: The board shall consist of at least 5 members and no more than 10 members.
+* **Membership Limit**: The board shall consist of at least 3 members and no more than 7 members.
 The board may increase or decrease the number of people serving on the board.
 
 * **Term Length**: All members shall serve a maximum of a two-year term (from their appointment), however the term may be extended until a successor has been appointed.
