@@ -23,9 +23,9 @@ The SunPy project's governance involves the following five components:
 * The Advisory Board
 * The Ombudsperson
 
-The SunPy project is ultimately run by the whole community: users, developers, and members of the wider solar physics and scientific software community, for the benefit of all.
-This document describes how the project is run through delegation of this authority, primarily to the Steering Committee and the Project Members.
-Wherever possible all decisions taken should be done by consensus, considering input from both active contributors and the wider community.
+The SunPy project exists for the benefit of the whole community: users, developers, and members of the wider solar physics and scientific software community.
+This community is the ultimate authority in how the project is run, this authority is exercised through the processes outlined in this document, primarily to the Steering Committee and the Project Members.
+Whenever possible all decisions taken should be done by consensus, considering input from both active contributors and the wider community, rather than taken in isolation by the projects governance.
 
 ## Advisory Board
 The primary functions of the advisory board are: to advise the steering committee on management of the project, find funding for the project to ensure the core aims of the project can be met, nominate a Ombudsperson, and to ensure that the governance of the project is running as intended.
