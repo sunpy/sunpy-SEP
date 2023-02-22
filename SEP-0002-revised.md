@@ -131,8 +131,8 @@ To avoid repeated removal votes, any individual Project Member who has called fo
 The project members are trusted community members with a proven track record of constructive contribution to the goals of the project.
 Collectively, the project members make decisions about the direction of the project and have authority over the project, which is delegated to the Steering Committee.
 
-Project Members are expected to act as role models for the community and custodians of the SunPy Project, on behalf of the community and all those who rely on the SunPy Project.
-They will act as representatives of the SunPy Project, where necessary, including in online discussions or at official SunPy events.
+Project Members are expected to act as role models for the community and custodians of the SunPy Project, on behalf of the community and all those who rely on SunPy.
+They will act as representatives of the SunPy Project, where necessary, including in online discussions, in-person conferences, or at official SunPy events.
 
 ### Responsibilities and Rights
 
@@ -140,11 +140,11 @@ Project Members may and should participate in formal votes on:
 
 * Adding new Project Members
 * Electing Steering Committee members
-* Appointment of the Ombudsperson
+* Appointing the Ombudsperson
 * Removing Project Members
 * Removing Steering Committee members
 * Removing the Ombudsperson
-* Changes to this SEP
+* Approving changes to this SEP via a vote (see below)
 * Other matters for which the Steering Committee believes a vote is appropriate.
 
 ### Membership
@@ -163,7 +163,7 @@ Project Membership acknowledges sustained and valuable efforts that align well w
 
 To be able to elect new Project Members an initial set of Project Members are needed.
 People meeting the following criteria will be invited to form the initial group of Project Members.
-They should consider the above responsiblities and activate agree to taking them on if they choose to accept the invitation.
+They should consider the above responsiblities and actively agree to taking them on if they choose to accept the invitation.
 
 * Current commit access to the core repo, or any accepted affiliated package maintained by the project, and with a commit to that repository within the last 12 months.
 * Currently holds a role listed under the community roles section of the website: https://sunpy.org/project/#community-roles.
