@@ -221,7 +221,13 @@ The Ombudsperson represents the interests of the SunPy community by providing an
 Candidates for this project role are publicly nominated by the Board, after which at least two weeks for comment is allowed, and then the nominee must be confirmed by two-thirds of the active Project Members.
 
 The Ombudsperson has no term limit but can resign at any time, or be removed by the same process as removing a Project Member.
-In the period between removal/resignation and new appointment, the Steering Committee will temporarily take over the responsibilities of the Ombudsperson, should the need arise.
+In the period between removal/resignation and new appointment, the Steering Comittee will temporarily take over the responsibilities of the Ombudsperson, should the need arise.
+
+# Modifications to SEP 2
+
+Due to the fundamental nature of this SEP, it would be inappropriate for the Steering Committee alone to have authority to approve modifications to it.
+Therefore, if this document is to be modified in any way, then those modifications shall be put to a vote of the Project Members.
+This vote shall require a 2/3s majority of those voting to approve the changes.
 
 # Code of Conduct
 
