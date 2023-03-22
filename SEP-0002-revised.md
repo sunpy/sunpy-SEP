@@ -219,7 +219,6 @@ A member removed via this mechanism does not have emeritus status.
 It may be necessary for the Ombudsperson and the Steering Committee to remove a Project Member for violations of the Code of Conduct.
 In this case, the Steering Committee, Ombudsperson and Advisory Board will work together to make this decision.
 
-
 #### Votes on Other Matters
 
 From time to time, as desired or required by the Steering Committee and Advisory Board, matters may be put to the Project Members for a vote.
