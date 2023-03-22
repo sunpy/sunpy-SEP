@@ -44,28 +44,30 @@ The primary functions of the Advisory Board are:
 The Advisory Board is self-electing, with members appointed by a vote of the existing Advisory Board.
 
 #### Membership
-The Advisory Board shall consist of at least 3 members and no more than 5 members.
-The Advisory Board selects how many members are needed.
-All members shall serve a maximum of a two-year term, and may be re-appointed at the end of their term.
-Membership terms should be staggered so that approximately half the number of members will end their terms in any given year.
-The Advisory Board may appoint members to its number up to the maximum number of members.
-The Advisory Board should work to ensure that the composition of the Advisory Board represents a diverse cross-section of the scientific community with an interest in SunPy.
-This diversity should consider things such as research topic, career stage, as well as all other forms of diversity such as gender.
-A Advisory Board member may be removed by a two-thirds majority vote of the Advisory Board or by Project Members following the same procedure as for the removal of a member of the Steering Committee.
+
+* The Advisory Board shall consist of at least 3 members and no more than 5 members. The Advisory Board selects how many members within this range are needed.
+* All members shall serve a maximum of a two-year term, and may be re-appointed at the end of their term.
+* Membership terms should be staggered so that approximately half the number of members will end their terms in any given year.
+* The Advisory Board may appoint members to its number up to the maximum number of members.
+* The Advisory Board should work to ensure that the composition of the Advisory Board represents a diverse cross-section of the scientific community with an interest in SunPy. This diversity should consider things such as research topic, career stage, as well as all other forms of diversity such as gender.
+* An Advisory Board member may be removed by a two-thirds majority vote of the Advisory Board or by Project Members following the same procedure as for the removal of a member of the Steering Committee.
 
 #### Meetings
-The Advisory Board shall meet with the Steering Committee at least every quarter at times and places fixed by the Advisory Board.
-Advisory Board meetings shall provide at least one week (7 days) notice.
-Notice of meetings shall provide the information necessary to participate in the meeting.
-Minutes for the meetings shall be recorded and made public as much as is appropriate.
+
+* The Advisory Board shall meet with the Steering Committee at least every quarter.
+* At least one week (7 days) notice of a meeting shall be provided to all eligible to attend.
+* Notice of meetings shall provide the information necessary to participate in the meeting.
+* Minutes for the meetings shall be recorded and made public as much as is appropriate.
 
 The Advisory Board shall organize itself as it sees fit.
 
 #### Advise and Consent
+
 The Steering Committee shall present the state of the project and future plans at meetings of the Advisory Board on a yearly basis.
 The Advisory Board shall advise and consent on those plans.
 
 #### Requiring a Project Vote
+
 In the unlikely event that the Advisory Board does not agree with a decision made by the Steering Committee, it can require Project Members to consent to the decision through a vote (see below for process).
 
 ### The Steering Committee
@@ -91,7 +93,7 @@ The members of the committee are elected into three roles to help with distribut
 * **The deputy lead developer** in the absence of the lead developer, the deputy shall perform all the duties of the lead developer.
 * **The financial officer** the financial officer is primarily responsible for ensuring the health of the project finances and setting up processes for managing expenses and reporting to the Advisory Board on financial matters.
 
-The Steering Committee is elected by the **Project Members**.
+The Steering Committee is elected by the Project Members.
 
 #### Decision Making
 
