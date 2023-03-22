@@ -44,10 +44,9 @@ The Advisory Board is self-electing, with members appointed by a vote of the exi
 
 * **Membership**: The Advisory Board shall consist of at least 3 members and no more than 5 members.
 The Advisory Board selects how many members are needed.
-All members shall serve a maximum of a two-year term, however a term may be extended until a successor has been appointed.
-A member may be re-appointed at the end of their term.
+All members shall serve a maximum of a two-year term, and may be re-appointed at the end of their term.
 Membership terms should be staggered so that approximately half the number of members will end their terms in any given year.
-The Advisory Board may fill vacancies or may appoint new members to fill a previously unfilled Advisory Board position, subject to the maximum number of members.
+The Advisory Board may appoint members to its number up to the maximum number of members.
 The Advisory Board should work to ensure that the composition of the Advisory Board represents a diverse cross-section of the scientific community with an interest in SunPy.
 This diversity should consider things such as research topic, career stage, as well as all other forms of diversity such as gender.
 A Advisory Board member may be removed by a two-thirds majority vote of the Advisory Board or Project Members.
@@ -152,6 +151,7 @@ Project Members of the SunPy Project must demonstrate all of the following:
 * Significant contributions to the Project's goals, in any form
 * A willingness to dedicate time to improving the Project
 * A willingness to recruit, train, and nominate new team members
+* A track record of adhering to the project Code of Conduct.
 
 Project Membership acknowledges sustained and valuable efforts that align well with the philosophy and the goals of the SunPy Project.
 
@@ -159,7 +159,7 @@ Project Membership acknowledges sustained and valuable efforts that align well w
 
 To be able to elect new Project Members an initial set of Project Members are needed.
 People meeting the following criteria will be invited to form the initial group of Project Members.
-They should consider the above responsiblities and actively agree to taking them on if they choose to accept the invitation.
+They should consider the above responsibilities and actively agree to taking them on if they choose to accept the invitation.
 
 * Current commit access to the core repo, or any accepted affiliated package maintained by the project, and with a commit to that repository within the last 12 months.
 * Currently holds a role listed under the community roles section of the website: https://sunpy.org/project/#community-roles.
