@@ -4,11 +4,11 @@
 
 This SEP describes the second major iteration of the governance for the SunPy Project.
 The objectives of the rewrite were to adapt the governance for the changes the project has seen since the first iteration of this document was written in 2014.
-This rewrite aims to detail a governance structure, which strives to be lightweight, while being designed to enable the project to grow, and facilitating more input from the wider SunPy community.
+The rewrite aimed to detail a governance structure, which strives to be lightweight, while being designed to enable the project to grow, and facilitating more input from the wider SunPy community.
 
 ## The SunPy Project
 
-The primary mission of the SunPy Project is *To develop and facilitate a high-quality, easy-to-use, community-led, free and open-source solar data analysis ecosystem based on the scientific Python environment*.
+The primary mission of the SunPy Project is **To develop and facilitate a high-quality, easy-to-use, community-led, free and open-source solar data analysis ecosystem based on the scientific Python environment**.
 This includes but is not limited to the following tasks:
 
 * developing the sunpy core library and other affiliated packages
@@ -43,26 +43,30 @@ The primary functions of the Advisory Board are:
 
 The Advisory Board is self-electing, with members appointed by a vote of the existing Advisory Board.
 
-* **Membership**: The Advisory Board shall consist of at least 3 members and no more than 5 members.
+#### Membership
+The Advisory Board shall consist of at least 3 members and no more than 5 members.
 The Advisory Board selects how many members are needed.
 All members shall serve a maximum of a two-year term, and may be re-appointed at the end of their term.
 Membership terms should be staggered so that approximately half the number of members will end their terms in any given year.
 The Advisory Board may appoint members to its number up to the maximum number of members.
 The Advisory Board should work to ensure that the composition of the Advisory Board represents a diverse cross-section of the scientific community with an interest in SunPy.
 This diversity should consider things such as research topic, career stage, as well as all other forms of diversity such as gender.
-A Advisory Board member may be removed by a two-thirds majority vote of the Advisory Board or Project Members.
+A Advisory Board member may be removed by a two-thirds majority vote of the Advisory Board or by Project Members following the same procedure as for the removal of a member of the Steering Committee.
 
-* **Meetings**:  The Advisory Board shall meet with the Steering Committee at least every quarter at times and places fixed by the Advisory Board.
+#### Meetings
+The Advisory Board shall meet with the Steering Committee at least every quarter at times and places fixed by the Advisory Board.
 Advisory Board meetings shall provide at least one week (7 days) notice.
 Notice of meetings shall provide the information necessary to participate in the meeting.
 Minutes for the meetings shall be recorded and made public as much as is appropriate.
 
 The Advisory Board shall organize itself as it sees fit.
 
-* **Advise and Consent**: The Steering Committee shall present the state of the project and future plans at meetings of the Advisory Board on a yearly basis.
+#### Advise and Consent
+The Steering Committee shall present the state of the project and future plans at meetings of the Advisory Board on a yearly basis.
 The Advisory Board shall advise and consent on those plans.
 
-* **Forcing a Project Vote**: In the unlikely event that the Advisory Board does not agree with a decision made by the Steering Committee, it can force Project Members to consent to the decision through a majority vote.
+#### Requiring a Project Vote
+In the unlikely event that the Advisory Board does not agree with a decision made by the Steering Committee, it can require Project Members to consent to the decision through a vote (see below for process).
 
 ### The Steering Committee
 
@@ -113,15 +117,15 @@ If there is a vacancy part way through a term, then a by-election will be held w
 For the first election of the coordinating committee, one member will have a one year term, one member a two year term and one member a three year term.
 The term length of the elected candidates may be decided between themselves, in the case agreement can not be reached the person elected to the financial officer role will serve three years, the deputy lead developer two years and the lead developer one year.
 
-#### Removing Steering Committee Members
+#### Removing Steering Committee or Advisory Board Members
 
-In exceptional circumstances, the Project Members may remove one or more sitting Steering Committee members via a single vote.
+In exceptional circumstances, the Project Members may remove one or more sitting Steering Committee or Advisory Board members via a single vote.
 
 Such a vote is triggered when a Project Member calls for one publicly on an appropriate Project-wide communication channel, and two other active Project Members second the proposal.
 
-For Steering Committee Member(s) to be removed, two-thirds of the active Project Members (where the count includes the member being voted on if they are a Project Member) must vote in support of the removal.
+For the member(s) to be removed, two-thirds of the active Project Members (where the count includes the member being voted on if they are a Project Member) must vote in support of the removal.
 
-To avoid repeated removal votes, any individual Project Member who has called for, or seconded such a vote, may not call for or second a vote to remove any Steering Committee member for one year from the original motion.
+To avoid repeated removal votes, any individual Project Member who has called for, or seconded such a vote, may not call for or second a vote to remove any member for one year from the original motion.
 
 ### The Project Members
 
@@ -212,6 +216,12 @@ A member removed via this mechanism does not have emeritus status.
 
 It may be necessary for the Ombudsperson and the Steering Committee to remove a Project Member for violations of the Code of Conduct.
 In this case, the Steering Committee, Ombudsperson and Advisory Board will work together to make this decision.
+
+
+#### Votes on Other Matters
+
+From time to time, as desired or required by the Steering Committee and Advisory Board, matters may be put to the Project Members for a vote.
+For these votes, the motion will carry by a simple majority of those Project Members who cast a ballot.
 
 ## Ombudsperson
 
