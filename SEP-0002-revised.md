@@ -51,7 +51,7 @@ A board member may be removed by a two-thirds majority vote of the board or Proj
 
 * **Meetings**:  The board shall meet with the Steering Committee at least every quarter at times and places fixed by the board.
 Board meetings shall provide at least one week (7 days) notice.
-Notice of meetings shall specify the place, day, and hour of meeting.
+Notice of meetings shall provide the information necessary to participate in the meeting.
 The purpose of the meeting needs not be specified.
 Minutes for the meetings shall be recorded and made public as much as is appropriate.
 
