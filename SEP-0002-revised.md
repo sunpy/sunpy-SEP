@@ -1,10 +1,13 @@
 # SEP-0002 - SunPy Organization Definition
 
-## Abstract
-The SunPy project has changed significantly since the first version of SEP-0002 was written in 2014.
-This SEP details a new governance structure designed to enable the project to grow, while allowing for more input from the wider SunPy community.
+# Rationale
 
-## Detailed Description
+This SEP describes the second major iteration of the governance for the SunPy Project.
+The objectives of the rewrite were to adapt the governance for the changes the project has seen since the first iteration of this document was written in 2014.
+This rewrite aims to detail a governance structure, which strives to be lightweight, while being designed to enable the project to grow, and facilitating more input from the wider SunPy community.
+
+# The SunPy Project
+
 The primary mission of the SunPy Project is *To develop and facilitate a high-quality, easy-to-use, community-led, free and open-source solar data analysis ecosystem based on the scientific Python environment*.
 This includes but is not limited to the following tasks:
 
