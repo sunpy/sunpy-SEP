@@ -5,71 +5,65 @@ The SunPy project has changed significantly since the first version of SEP-0002 
 This SEP details a new governance structure designed to enable the project to grow, while allowing for more input from the wider SunPy community.
 
 ## Detailed Description
-The primary role of the SunPy Project is to *facilitate and promote the use and development of community-led, free and open-source solar data-analysis software based on the scientific Python environment*.
+The primary mission of the SunPy Project is *To develop and facilitate a high-quality, easy-to-use, community-led, free and open-source solar data analysis ecosystem based on the scientific Python environment*.
 This includes but is not limited to the following tasks:
 
 * developing the sunpy core library and other affiliated packages
-* manage and protect the SunPy brand and identity
-* promote SunPy to the community
+* supporting a community of affiliated packages
+* managing and protect the SunPy brand and identity
+* promoting SunPy to the community
 * managing SunPy assets, i.e. GitHub organization, domain name etc.
 
 # Governance Structure
 
 The SunPy project's governance involves the following five components:
 
-* The SunPy Community
+* The Community
 * The Project Members
 * The Steering Committee
 * The Advisory Board
 * The Ombudsperson
 
-The SunPy project exists for the benefit of the whole community: users, developers, and members of the wider solar physics and scientific software community.
-This community is the ultimate authority in how the project is run, this authority is exercised through the processes outlined in this document, primarily to the Steering Committee and the Project Members.
-Whenever possible all decisions taken should be done by consensus, considering input from both active contributors and the wider community, rather than taken in isolation by the projects governance.
+The SunPy project exists for the benefit of the whole Community: users, developers, and members of the wider solar physics and scientific software community.
+The Community is the ultimate authority in how the project is managed. 
+This authority is exercised through the processes outlined in this document, primarily through the Steering Committee and the Project Members.
+Whenever possible, decisions shall be approved by consensus, considering input from the entire community, rather than taken unilaterily by Project Members or the Steering Committee.
 
 ## Advisory Board
-The primary functions of the advisory board are: to advise the steering committee on management of the project, find funding for the project to ensure the core aims of the project can be met, nominate a Ombudsperson, and to ensure that the governance of the project is running as intended.
+The primary functions of the advisory board are: 
+
+* to advise the steering committee on management of the project,
+* aid in finding funding for the project to ensure the core aims of the project can be met,
+* nominate a Ombudsperson,
+* ensure that the governance of the project is running as intended.
+
 The board is self-electing, with members appointed by a vote of the existing board.
 
-* **Membership Limit**: The board shall consist of at least 3 members and no more than 7 members.
-The board may increase or decrease the number of people serving on the board.
-
-* **Term Length**: All members shall serve a maximum of a two-year term (from their appointment), however the term may be extended until a successor has been appointed.
+* **Membership**: The board shall consist of at least 3 members and no more than 5 members.
+The board selects how many members are needed.
+All members shall serve a maximum of a two-year term, however a term may be extended until a successor has been appointed.
 A member may be re-appointed at the end of their term.
-
-* **Staggering**: Members terms shall be staggered so that approximately half the number of members will end their terms in any given year.
-
-* **Vacancies**: The board may fill vacancies or may appoint new members to fill a previously unfilled board position, subject to the maximum number of members.
-The board shall fill vacancies as soon as possible.
+Membership terms should be staggered so that approximately half the number of members will end their terms in any given year.
+The board may fill vacancies or may appoint new members to fill a previously unfilled board position, subject to the maximum number of members.
 The board should work to ensure that the composition of the board represents a diverse cross-section of the scientific community with an interest in SunPy.
 This diversity should consider things such as research topic, career stage, as well as all other forms of diversity such as gender.
+A board member may be removed by a two-thirds majority vote of the board or Project Members.
 
-* **Removal**: A board member may be removed by a two-thirds majority vote of the full board, if before any meeting of the board at which a vote on removal will be made the member in question is given electronic or written notification of the board’s intention to discuss their case and is given the opportunity to be heard at a meeting of the board.
-Alternatively a member of the board can be removed by a vote of the Voting Members, following the same procedure laid out below for the removal of a member of the Steering Committee.
-
-* **Meetings**:  The board shall have a meeting at least every quarter at times and places fixed by the board.
-Board meetings shall provide at least one week (7 days) notice to all board members and the Steering Committee.
+* **Meetings**:  The board shall meet with the Steering Committee at least every quarter at times and places fixed by the board.
+Board meetings shall provide at least one week (7 days) notice.
 Notice of meetings shall specify the place, day, and hour of meeting.
 The purpose of the meeting needs not be specified.
+Minutes for the meetings shall be recorded and made public as much as is appropriate.
 
-* **Board officers**: The officers of the board shall be a board chair, vice-chair, and secretary, all of whom shall be chosen by, and serve at the pleasure of, the board.
-Officers shall serve one year terms (as officers) and can serve consecutive terms.
+The board shall organize itself as it sees fit.
 
-* **Board Chair**: The board chair shall lead the board in performing its duties and responsibilities, including, if present, leading all meetings of the board.
-
-* **Vice-chair**: In the absence of the board chair, the vice-chair shall perform the duties of the board chair.
-When so acting, the vice-chair shall have all the powers of and be subject to all the restrictions upon the board chair.
-
-* **Secretary**: The secretary shall be responsible for keeping the minutes of all meetings and actions of the board.
-The minutes of each meeting shall state the time and place that it was held, the members present, and such other information as shall be necessary to determine the actions taken.
-The minutes of all board meetings shall be made publicly accessible to the whole SunPy community.
-
-* **Advise and Consent**: The steering committee shall present the state of the project and future plans at meetings of the board.
+* **Advise and Consent**: The Steering committee shall present the state of the project and future plans at meetings of the board on a yearly basis.
 The advisory board shall advise and consent on those plans.
 
+* **Forcing a Project Vote**: In the unlikely event that the board does not agree with a decision made by the Steering Committee, it can force Project Members to consent to the decision through a majority vote.
 
 ## The Steering Committee
-The role of the steering committee, which is chaired by the Lead Developer, is to manage the day-to-day operations of the project.
+The role of the steering committee, which is chaired by the Lead Developer, is to lead the day-to-day operations of the project.
 The steering committee shall be responsible for the running of the project under advisement of the board.
 This includes:
 
@@ -131,8 +125,8 @@ To avoid repeated removal votes, any individual Project Member who has called fo
 The project members are trusted community members with a proven track record of constructive contribution to the goals of the project.
 Collectively, the project members make decisions about the direction of the project and have authority over the project, which is delegated to the Steering Committee.
 
-Project Members are expected to act as role models for the community and custodians of the SunPy Project, on behalf of the community and all those who rely on SunPy.
-They will act as representatives of the SunPy Project, where necessary, including in online discussions, in-person conferences, or at official SunPy events.
+It is expected that Project Members act as role models for the Community and are custodians of the SunPy Project.
+The Project Members elect a Steering committee to lead the SunPy Project.
 
 ### Responsibilities and Rights
 
@@ -217,13 +211,13 @@ In this case, the Steering Committee, Ombudsperson and Board will work together 
 
 # Ombudsperson
 
-The Ombudsperson represents the interests of the SunPy community by providing an alternative point of contact for sensitive issues such as code of conduct violations and ethical concerns.
+The Ombudsperson represents the interests of the Community by providing an alternative point of contact for sensitive issues such as code of conduct violations and ethical concerns.
 Candidates for this project role are publicly nominated by the Board, after which at least two weeks for comment is allowed, and then the nominee must be confirmed by two-thirds of the active Project Members.
 
 The Ombudsperson has no term limit but can resign at any time, or be removed by the same process as removing a Project Member.
 In the period between removal/resignation and new appointment, the Steering Comittee will temporarily take over the responsibilities of the Ombudsperson, should the need arise.
 
-# Modifications to SEP 2
+# Future changes to the governance (Revision of SEP-2)
 
 Due to the fundamental nature of this SEP, it would be inappropriate for the Steering Committee alone to have authority to approve modifications to it.
 Therefore, if this document is to be modified in any way, then those modifications shall be put to a vote of the Project Members.
