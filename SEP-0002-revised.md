@@ -1,12 +1,12 @@
 # SEP-0002 - SunPy Organization Definition
 
-# Rationale
+## Rationale
 
 This SEP describes the second major iteration of the governance for the SunPy Project.
 The objectives of the rewrite were to adapt the governance for the changes the project has seen since the first iteration of this document was written in 2014.
 This rewrite aims to detail a governance structure, which strives to be lightweight, while being designed to enable the project to grow, and facilitating more input from the wider SunPy community.
 
-# The SunPy Project
+## The SunPy Project
 
 The primary mission of the SunPy Project is *To develop and facilitate a high-quality, easy-to-use, community-led, free and open-source solar data analysis ecosystem based on the scientific Python environment*.
 This includes but is not limited to the following tasks:
@@ -17,7 +17,7 @@ This includes but is not limited to the following tasks:
 * promoting SunPy to the community
 * managing SunPy assets, i.e. GitHub organization, domain name etc.
 
-# Governance Structure
+## Governance Structure
 
 The SunPy Project's governance involves the following five components:
 
@@ -32,7 +32,8 @@ The Community is the ultimate authority in how the project is managed.
 This authority is exercised through the processes outlined in this document, primarily through the Steering Committee and the Project Members.
 Whenever possible, decisions shall be approved by consensus, considering input from the entire community, rather than taken unilaterally by Project Members or the Steering Committee.
 
-## Advisory Board
+### Advisory Board
+
 The primary functions of the Advisory Board are:
 
 * to advise the Steering Committee on management of the project,
@@ -63,7 +64,8 @@ The Advisory Board shall advise and consent on those plans.
 
 * **Forcing a Project Vote**: In the unlikely event that the Advisory Board does not agree with a decision made by the Steering Committee, it can force Project Members to consent to the decision through a majority vote.
 
-## The Steering Committee
+### The Steering Committee
+
 The role of the Steering Committee, which is chaired by the Lead Developer, is to lead the day-to-day operations of the project.
 The Steering Committee shall be responsible for the running of the project under advisement of the Advisory Board.
 This includes:
@@ -76,7 +78,7 @@ This includes:
 * delegating responsibility and authority to other community roles
 * planning and managing finances and financial processes of the project.
 
-### Composition
+#### Composition
 
 The Steering Committee is formed of three members of the SunPy community with equal status on the committee, and they do not need to be Project Members.
 The members of the committee are elected into three roles to help with distributing the work load, these three roles are:
@@ -87,13 +89,13 @@ The members of the committee are elected into three roles to help with distribut
 
 The Steering Committee is elected by the **Project Members**.
 
-### Decision Making
+#### Decision Making
 
 The Steering Committee should strive to make decisions by consensus.
 Where possible and appropriate, consensus should be reached between the members of the committee, and that consensus should reflect the consensus of the whole SunPy community.
 If consensus can not be reached between the committee members, decisions can be taken by a majority vote.
 
-### Electing the Steering Committee
+#### Electing the Steering Committee
 
 An election to fill a vacant role on the Steering Committee will occur in two stages:
 
@@ -102,7 +104,7 @@ Candidates who have accepted their nomination (self nominations are allowed) sho
 * Election: All candidates that have written statement will be put to a vote of the Project Members and the candidate with the most votes shall be elected to the position.
 In the event that more than one position has to be filled simultaneously each position shall be filled as if it were an independent election.
 
-### Term
+#### Term
 
 Each position on the Steering Committee has a term of three years, from the date of the announcement of the election results.
 
@@ -111,7 +113,7 @@ If there is a vacancy part way through a term, then a by-election will be held w
 For the first election of the coordinating committee, one member will have a one year term, one member a two year term and one member a three year term.
 The term length of the elected candidates may be decided between themselves, in the case agreement can not be reached the person elected to the financial officer role will serve three years, the deputy lead developer two years and the lead developer one year.
 
-### Removing Steering Committee Members
+#### Removing Steering Committee Members
 
 In exceptional circumstances, the Project Members may remove one or more sitting Steering Committee members via a single vote.
 
@@ -121,7 +123,7 @@ For Steering Committee Member(s) to be removed, two-thirds of the active Project
 
 To avoid repeated removal votes, any individual Project Member who has called for, or seconded such a vote, may not call for or second a vote to remove any Steering Committee member for one year from the original motion.
 
-## The Project Members
+### The Project Members
 
 The Project Members are trusted community members with a proven track record of constructive contribution to the goals of the project.
 Collectively, the Project Members make decisions about the direction of the project and have authority over the project, which is delegated to the Steering Committee.
@@ -129,7 +131,7 @@ Collectively, the Project Members make decisions about the direction of the proj
 It is expected that Project Members act as role models for the Community and are custodians of the SunPy Project.
 The Project Members elect a Steering Committee to lead the SunPy Project.
 
-### Responsibilities and Rights
+#### Responsibilities and Rights
 
 Project Members may and should participate in formal votes on:
 
@@ -142,7 +144,7 @@ Project Members may and should participate in formal votes on:
 * Approving changes to this SEP via a vote (see below)
 * Other matters where the Steering Committee or the Advisory Board believes a vote is appropriate.
 
-### Membership
+#### Membership
 
 Project Members of the SunPy Project must demonstrate all of the following:
 
@@ -155,17 +157,17 @@ Project Members of the SunPy Project must demonstrate all of the following:
 
 Project Membership acknowledges sustained and valuable efforts that align well with the philosophy and the goals of the SunPy Project.
 
-### Initial Membership
+#### Initial Membership
 
 To be able to elect new Project Members an initial set of Project Members are needed.
 People meeting the following criteria will be invited to form the initial group of Project Members.
 They should consider the above responsibilities and actively agree to taking them on if they choose to accept the invitation.
 
 * Current commit access to the core repo, or any accepted affiliated package maintained by the project, and with a commit to that repository within the last 12 months.
-* Currently holds a role listed under the community roles section of the website: https://sunpy.org/project/#community-roles.
+* Currently holds a role listed under the community roles section of the website: <https://sunpy.org/project/##community-roles>.
 * Is a currently serving Advisory Board member.
 
-### Adding New Project Members
+#### Adding New Project Members
 
 Anyone is eligible to be nominated to be a Project member, as long as they meet the criteria laid out in the Membership section above.
 Self-nominations are encouraged.
@@ -187,7 +189,7 @@ A public list of Project Members will be kept on the SunPy website.
 
 Nominations, approvals and any elections of Project Members should take place before the initial election of the Steering Committee.
 
-### Active and Emeritus Status
+#### Active and Emeritus Status
 
 Project Members have no term limits.
 Project Members who are no longer actively contributing to the project should contact the Steering Committee to move themselves to emeritus status.
@@ -197,7 +199,7 @@ Emeritus Project Members will continue to be listed on the website.
 Emeritus Project Members are not able to participate in votes.
 An emeritus member may declare themselves to be active again at any time if they feel they are making contributions.
 
-### Removing Project Members
+#### Removing Project Members
 
 In exceptional circumstances, it may be necessary to remove someone from the Project Members against their will.
 A vote of the Project Members must be held to remove a Project Member.
@@ -211,27 +213,27 @@ A member removed via this mechanism does not have emeritus status.
 It may be necessary for the Ombudsperson and the Steering Committee to remove a Project Member for violations of the Code of Conduct.
 In this case, the Steering Committee, Ombudsperson and Advisory Board will work together to make this decision.
 
-# Ombudsperson
+## Ombudsperson
 
 The Ombudsperson represents the interests of the Community by providing an alternative point of contact for sensitive issues such as code of conduct violations and ethical concerns.
 Candidates for this project role are publicly nominated by the Advisory Board, after which at least two weeks for comment is allowed, and then the nominee must be confirmed by two-thirds of the active Project Members.
 
 The Ombudsperson has no term limit but can resign at any time, or be removed by the same process as removing a Project Member.
-In the period between removal/resignation and new appointment, the Steering Comittee will temporarily take over the responsibilities of the Ombudsperson, should the need arise.
+In the period between removal/resignation and new appointment, the Steering Committee will temporarily take over the responsibilities of the Ombudsperson, should the need arise.
 
-# Future changes to the governance (Revision of SEP-2)
+## Future changes to the governance (Revision of SEP-2)
 
 Due to the fundamental nature of this SEP, it would be inappropriate for the Steering Committee alone to have authority to approve modifications to it.
 Therefore, if this document is to be modified in any way, then those modifications shall be put to a vote of the Project Members.
 This vote shall require a 2/3s majority of those voting to approve the changes.
 
-# Code of Conduct
+## Code of Conduct
 
 The SunPy organization shall have an explicit code of conduct to state the norms of peer interactions, including inclusiveness and respect, and describe the process for dispute resolution.
 The code of conduct shall be publicly posted on the SunPy website.
 The code of conduct shall be accessible in such a manner as to welcome and incorporate feedback from the developer community, even anonymous feedback.
 
-# Implementation of this Revision of SEP 2
+## Implementation of this Revision of SEP 2
 
 This change to SEP 2 will be implemented in the following stages:
 
@@ -241,9 +243,9 @@ This change to SEP 2 will be implemented in the following stages:
 4. Nomination of new Project Members will be solicited and confirmed by the initial Project Members.
 5. The process for electing the initial Steering Committee will be followed as laid out above.
 
-# Attribution
+## Attribution
 
 This document builds on the original version of SEP 2.
 The Project Members section, in particular, is heavily inspired by Voting Members in the Astropy project's [APE 0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst), but other sections also copy from it.
 
-# Decision Rationale
+## Decision Rationale
