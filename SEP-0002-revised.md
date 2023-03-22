@@ -1,6 +1,6 @@
 # SEP-0002 - SunPy Organization Definition
 
-# Abstract
+## Abstract
 The SunPy project has changed significantly since the first version of SEP-0002 was written in 2014.
 This SEP details a new governance structure designed to enable the project to grow, while allowing for more input from the wider SunPy community.
 
@@ -16,7 +16,7 @@ This includes but is not limited to the following tasks:
 
 # Governance Structure
 
-The SunPy project's governance involves the following five components:
+The SunPy Project's governance involves the following five components:
 
 * The Community
 * The Project Members
@@ -69,15 +69,15 @@ This includes:
 
 * holding regular meetings with the developer community (at least monthly)
 * making regular reports to the board (at least quarterly)
-* having ownership privileges to the SunPy GitHub organization
+* having ownership privileges to the SunPy GitHub organization and other community assets
 * creating, maintaining and enforcing the SunPy code of conduct (see below)
-* accepting or rejecting SEPs based on community consensus (excluding this SEP, see below.)
+* accepting or rejecting SEPs based on community consensus (excluding this SEP, see below)
 * delegating responsibility and authority to other community roles
 * planning and managing finances and financial processes of the project.
 
 ### Composition
 
-The steering committee is formed of three members of the SunPy community with equal status on the committee, they do not need to be project members.
+The steering committee is formed of three members of the SunPy community with equal status on the committee, and they do not need to be Project Members.
 The members of the committee are elected into three roles to help with distributing the work load, these three roles are:
 
 * **The lead developer** chairs the steering committee and is responsible for holding regular (at least monthly) meetings, and ensuring that the committee is represented at all board meetings.
@@ -89,7 +89,7 @@ The steering committee is elected by the **project members**.
 ### Decision Making
 
 The steering committee should strive to make decisions by consensus.
-Where possible and appropriate, consensus should be reached between the members of the committee, and the whole SunPy community.
+Where possible and appropriate, consensus should be reached between the members of the committee, and that consensus should reflect the consensus of the whole SunPy community.
 If consensus can not be reached between the committee members, decisions can be taken by a majority vote.
 
 ### Electing the Steering Committee
@@ -139,7 +139,7 @@ Project Members may and should participate in formal votes on:
 * Removing Steering Committee members
 * Removing the Ombudsperson
 * Approving changes to this SEP via a vote (see below)
-* Other matters for which the Steering Committee believes a vote is appropriate.
+* Other matters where the Steering Committee or the Board believes a vote is appropriate.
 
 ### Membership
 
@@ -174,7 +174,7 @@ The process for adding a new Project member is as follows:
 The steering committee, and the Ombudsperson check that the nomination is factually accurate and their record of contribution to the community adheres to the Code of Conduct.
 1. The candidate is then put to the Project Members.
 The name and nomination statement of the candidate will be shared with the Project Members.
-The candidate can become a Project member if five existing Project members approve the candidate and no Project Members call for an election within two weeks of the candidate being put to the Project Members.
+The candidate can become a Project Member if, during the two weeks following the candidate being put to the Project Members, five existing Project members approve the candidate and no Project Members call for an election.
 1. Project Members can call for an election either by informing the Steering Committee or the Ombudsperson.
 If a vote is called for then the candidate will be come a Project Member with a simple majority of all votes cast in the election.
 An election needs to be announced to the Project Members one week before the voting opens and voting will be open for two weeks.
@@ -193,9 +193,9 @@ Active Project Members who have not made any significant contributions for two y
 The Steering Committee can change a Project Member's status to emeritus.
 Emeritus Project Members will continue to be listed on the website.
 Emeritus Project Members are not able to participate in votes.
-An emeritus member may request to be marked as active at any time if they feel they are making contributions.
+An emeritus member may declare themselves to be active again at any time if they feel they are making contributions.
 
-## Removing Project Members
+### Removing Project Members
 
 In exceptional circumstances, it may be necessary to remove someone from the Project Members against their will.
 A vote of the Project membership must be held to remove a Project Member.
