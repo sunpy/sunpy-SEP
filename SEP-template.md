@@ -4,7 +4,7 @@
 |---------------|----------------------------------|
 | title         | SEP Title                        |
 | author(s)     | [First Last](https://orcid.org/0000-0000-0000-0000)|
-| contact email | me@myemail.org                   |
+| contact email | <me@myemail.org>                   |
 | date-creation | YYYY-MM-DD                       |
 | type          | process, standard, informational |
 | discussion    | link to discussion if available  |
