@@ -30,16 +30,16 @@ The SunPy Project's governance involves the following five components:
 The SunPy project exists for the benefit of the whole Community: users, developers, and members of the wider solar physics and scientific software community.
 The Community is the ultimate authority in how the project is managed.
 This authority is exercised through the processes outlined in this document, primarily through the Steering Committee and the Project Members.
-Whenever possible, decisions shall be approved by consensus, considering input from the entire community, rather than taken unilaterally by Project Members or the Steering Committee.
+Whenever possible, decisions shall be approved by consensus, considering input from the Community, rather than taken unilaterally by Project Members or the Steering Committee.
 
 ### Advisory Board
 
 The primary functions of the Advisory Board are:
 
-* to advise the Steering Committee on management of the project,
+* to advise the Steering Committee,
 * aid in finding funding for the project to ensure the core aims of the project can be met,
 * nominate a Ombudsperson,
-* ensure that the governance of the project is running as intended.
+* ensure that the Project is being run consistent with the approved governance structure and the needs of the Community.
 
 The Advisory Board is self-electing, with members appointed by a vote of the existing Advisory Board.
 
@@ -49,7 +49,7 @@ The Advisory Board is self-electing, with members appointed by a vote of the exi
 * All members shall serve a maximum of a two-year term, and may be re-appointed at the end of their term.
 * Membership terms should be staggered so that approximately half the number of members will end their terms in any given year.
 * The Advisory Board may appoint members to its number up to the maximum number of members.
-* The Advisory Board should work to ensure that the composition of the Advisory Board represents a diverse cross-section of the scientific community with an interest in SunPy. This diversity should consider things such as research topic, career stage, as well as all other forms of diversity such as gender.
+* The Advisory Board should work to ensure that the composition of the Advisory Board represents a diverse cross-section of the scientific community with an interest in SunPy. This diversity should consider things such as research topic, career stage, as well as all other forms of diversity.
 * An Advisory Board member may be removed by a two-thirds majority vote of the Advisory Board or by Project Members following the same procedure as for the removal of a member of the Steering Committee.
 
 #### Meetings
@@ -76,13 +76,14 @@ The role of the Steering Committee, which is chaired by the Lead Developer, is t
 The Steering Committee shall be responsible for the running of the project under advisement of the Advisory Board.
 This includes:
 
-* holding regular meetings with the developer community (at least monthly)
+* holding regular meetings with the community (at least monthly)
 * making regular reports to the Advisory Board (at least quarterly)
 * having ownership privileges to the SunPy GitHub organization and other community assets
 * creating, maintaining and enforcing the SunPy code of conduct (see below)
 * accepting or rejecting SEPs based on community consensus (excluding this SEP, see below)
 * delegating responsibility and authority to other community roles
 * planning and managing finances and financial processes of the project.
+* Ensuring SunPy adheres to its legal obligations, such as to its fiscal sponsor.
 
 #### Composition
 
@@ -98,7 +99,7 @@ The Steering Committee is elected by the Project Members.
 #### Decision Making
 
 The Steering Committee should strive to make decisions by consensus.
-Where possible and appropriate, consensus should be reached between the members of the committee, and that consensus should reflect the consensus of the whole SunPy community.
+Where possible and appropriate, consensus should be reached between the members of the committee, and that consensus should reflect the consensus of the whole Community.
 If consensus can not be reached between the committee members, decisions can be taken by a majority vote.
 
 #### Electing the Steering Committee
@@ -127,7 +128,7 @@ Such a vote is triggered when a Project Member calls for one publicly on an appr
 
 For the member(s) to be removed, two-thirds of the active Project Members (where the count includes the member being voted on if they are a Project Member) must vote in support of the removal.
 
-To avoid repeated removal votes, any individual Project Member who has called for, or seconded such a vote, may not call for or second a vote to remove any member for one year from the original motion.
+To avoid repeated removal votes, any individual Project Member who has called for, or seconded such a vote, may not call for or second a vote to remove any member(s) for one year from the original motion.
 
 ### The Project Members
 
@@ -234,9 +235,8 @@ In the period between removal/resignation and new appointment, the Steering Comm
 
 ## Future changes to the governance (Revision of SEP-2)
 
-Due to the fundamental nature of this SEP, it would be inappropriate for the Steering Committee alone to have authority to approve modifications to it.
-Therefore, if this document is to be modified in any way, then those modifications shall be put to a vote of the Project Members.
-This vote shall require a 2/3s majority of those voting to approve the changes.
+Any changes to the governance structure of the SunPy Project (e.g. this SEP) requires a 2/3 majority vote of the Project Members.
+.
 
 ## Code of Conduct
 
