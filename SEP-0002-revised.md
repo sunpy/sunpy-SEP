@@ -165,7 +165,7 @@ This includes:
 #### Composition
 
 The Steering Committee is formed of three members of the SunPy community with equal status on the committee, and they do not need to be Project Custodians.
-The Steering Committee can decide how to distrubute the work load, however the Steering Committee should self-appoint the following roles after each election:
+The Steering Committee can decide how to distribute the work load, however the Steering Committee should self-appoint the following roles after each election:
 
 * **The lead developer** chairs the Steering Committee and is responsible for holding regular (at least monthly) meetings, and ensuring that the committee is represented at all Advisory Board meetings.
 * **The financial officer** the financial officer is primarily responsible for ensuring the health of the project finances and setting up processes for managing expenses and reporting to the Advisory Board on financial matters.
