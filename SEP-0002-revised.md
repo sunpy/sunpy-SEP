@@ -32,103 +32,6 @@ The Community is the ultimate authority in how the project is managed.
 This authority is exercised through the processes outlined in this document, primarily through the Steering Committee and the Project Custodians.
 Whenever possible, decisions shall be approved by consensus, considering input from the Community, rather than taken unilaterally by Project Custodians or the Steering Committee.
 
-### Advisory Board
-
-The primary functions of the Advisory Board are:
-
-* to advise the Steering Committee,
-* aid in finding funding for the project to ensure the core aims of the project can be met,
-* nominate a Ombudsperson,
-* ensure that the Project is being run consistent with the approved governance structure and the needs of the Community.
-
-The Advisory Board is self-electing, with members appointed by a vote of the existing Advisory Board.
-
-#### Membership
-
-* The Advisory Board shall consist of at least 3 members and no more than 5 members. The Advisory Board selects how many members within this range are needed.
-* All members shall serve a maximum of a two-year term, and may be re-appointed at the end of their term.
-* Membership terms should be staggered so that approximately half the number of members will end their terms in any given year.
-* The Advisory Board may appoint members to its number up to the maximum number of members.
-* The Advisory Board should work to ensure that the composition of the Advisory Board represents a diverse cross-section of the scientific community with an interest in SunPy. This diversity should consider things such as research topic, career stage, as well as all other forms of diversity.
-* An Advisory Board member may be removed by a two-thirds majority vote of the Advisory Board or by Project Custodians following the same procedure as for the removal of a member of the Steering Committee.
-
-#### Meetings
-
-* The Advisory Board shall meet with the Steering Committee at least every quarter.
-* At least one week (7 days) notice of a meeting shall be provided to all eligible to attend.
-* Notice of meetings shall provide the information necessary to participate in the meeting.
-* Minutes for the meetings shall be recorded and made public as much as is appropriate.
-
-The Advisory Board shall organize itself as it sees fit.
-
-#### Advise and Consent
-
-The Steering Committee shall present the state of the project and future plans at meetings of the Advisory Board on a yearly basis.
-The Advisory Board shall advise and consent on those plans.
-
-#### Requiring a Project Vote
-
-In the unlikely event that the Advisory Board does not agree with a decision made by the Steering Committee, it can require Project Custodians to consent to the decision through a vote (see below for process).
-
-### The Steering Committee
-
-The role of the Steering Committee, which is chaired by the Lead Developer, is to lead the day-to-day operations of the project.
-The Steering Committee shall be responsible for the running of the project under advisement of the Advisory Board.
-This includes:
-
-* holding regular meetings with the community (at least monthly)
-* making regular reports to the Advisory Board (at least quarterly)
-* having ownership privileges to the SunPy GitHub organization and other community assets
-* creating, maintaining and enforcing the SunPy code of conduct (see below)
-* accepting or rejecting SEPs based on community consensus (excluding this SEP, see below)
-* delegating responsibility and authority to other community roles
-* planning and managing finances and financial processes of the project.
-* Ensuring SunPy adheres to its legal obligations, such as to its fiscal sponsor.
-
-#### Composition
-
-The Steering Committee is formed of three members of the SunPy community with equal status on the committee, and they do not need to be Project Custodians.
-The Steering Committee can decide how to distrubute the work load, however the Steering Committee should self-appoint the following roles after each election:
-
-* **The lead developer** chairs the Steering Committee and is responsible for holding regular (at least monthly) meetings, and ensuring that the committee is represented at all Advisory Board meetings.
-* **The financial officer** the financial officer is primarily responsible for ensuring the health of the project finances and setting up processes for managing expenses and reporting to the Advisory Board on financial matters.
-
-The Steering Committee is elected by the Project Custodians.
-
-#### Decision Making
-
-The Steering Committee should strive to make decisions by consensus.
-Where possible and appropriate, consensus should be reached between the members of the committee, and that consensus should reflect the consensus of the whole Community.
-If consensus can not be reached between the committee members, decisions can be taken by a majority vote.
-
-#### Electing the Steering Committee
-
-An election to fill a vacant role on the Steering Committee will occur in two stages:
-
-* Nominations: No less than three weeks before an election a public announcement of the election must be made and nominations solicited for no less than two weeks.
-Candidates who have accepted their nomination (self nominations are allowed) should write a short statement supporting their candidacy, which will be made public as soon as possible, but no later than before the election starts.
-* Election: All candidates that have written statement will be put to a vote of the Project Custodians and the candidate with the most votes shall be elected to the position.
-In the event that more than one position has to be filled simultaneously each position shall be filled as if it were an independent election.
-
-#### Term
-
-Each position on the Steering Committee has a term of three years, from the date of the announcement of the election results.
-
-If there is a vacancy part way through a term, then a by-election will be held where the candidate elected to the committee will serve the remainder of the term of the member they are replacing.
-
-For the first election of the coordinating committee, one member will have a one year term, one member a two year term and one member a three year term.
-The term length of the elected candidates may be decided between themselves, in the case agreement can not be reached the person elected to the financial officer role will serve three years, the deputy lead developer two years and the lead developer one year.
-
-#### Removing Steering Committee or Advisory Board Members
-
-In exceptional circumstances, the Project Custodians may remove one or more sitting Steering Committee or Advisory Board members via a single vote.
-
-Such a vote is triggered when a Project Custodian calls for one publicly on an appropriate Project-wide communication channel, and two other active Project Custodians second the proposal.
-
-For the member(s) to be removed, two-thirds of the active Project Custodians (where the count includes the member being voted on if they are a Project Custodian) must vote in support of the removal.
-
-To avoid repeated removal votes, any individual Project Custodian who has called for, or seconded such a vote, may not call for or second a vote to remove any member(s) for one year from the original motion.
-
 ### The Project Custodians
 
 The Project Custodians are trusted community members with a proven track record of constructive contribution to the goals of the project.
@@ -219,7 +122,7 @@ Nominations, approvals and any elections of Project Custodians should take place
 
 Project Custodians have no term limits.
 Project Custodians who are no longer actively contributing to the project should contact the Steering Committee to move themselves to emeritus status.
-Active Project Custodians who have not made any significant contributions for two years, will be contacted by the Steering Committee and be asked to move themselves to emeritus status.
+Active Project Custodians who have not participated in the project in the manner required for Project Custodianship for two years, will be contacted by the Steering Committee and be asked to move themselves to emeritus status.
 The Steering Committee can change a Project Custodian's status to emeritus.
 Emeritus Project Custodians will continue to be listed on the website.
 Emeritus Project Custodians are not able to participate in votes.
@@ -243,6 +146,103 @@ In this case, the Steering Committee, Ombudsperson and Advisory Board will work 
 
 From time to time, as desired or required by the Steering Committee and Advisory Board, matters may be put to the Project Custodians for a vote.
 For these votes, the motion will carry by a simple majority of those Project Custodians who cast a ballot.
+
+### The Steering Committee
+
+The role of the Steering Committee, which is chaired by the Lead Developer, is to lead the day-to-day operations of the project.
+The Steering Committee shall be responsible for the running of the project under advisement of the Advisory Board.
+This includes:
+
+* holding regular meetings with the community (at least monthly)
+* making regular reports to the Advisory Board (at least quarterly)
+* having ownership privileges to the SunPy GitHub organization and other community assets
+* creating, maintaining and enforcing the SunPy code of conduct (see below)
+* accepting or rejecting SEPs based on community consensus (excluding this SEP, see below)
+* delegating responsibility and authority to other community roles
+* planning and managing finances and financial processes of the project.
+* Ensuring SunPy adheres to its legal obligations, such as to its fiscal sponsor.
+
+#### Composition
+
+The Steering Committee is formed of three members of the SunPy community with equal status on the committee, and they do not need to be Project Custodians.
+The Steering Committee can decide how to distrubute the work load, however the Steering Committee should self-appoint the following roles after each election:
+
+* **The lead developer** chairs the Steering Committee and is responsible for holding regular (at least monthly) meetings, and ensuring that the committee is represented at all Advisory Board meetings.
+* **The financial officer** the financial officer is primarily responsible for ensuring the health of the project finances and setting up processes for managing expenses and reporting to the Advisory Board on financial matters.
+
+The Steering Committee is elected by the Project Custodians.
+
+#### Decision Making
+
+The Steering Committee should strive to make decisions by consensus.
+Where possible and appropriate, consensus should be reached between the members of the committee, and that consensus should reflect the consensus of the whole Community.
+If consensus can not be reached between the committee members, decisions can be taken by a majority vote.
+
+#### Electing the Steering Committee
+
+An election to fill a vacant role on the Steering Committee will occur in two stages:
+
+* Nominations: No less than three weeks before an election a public announcement of the election must be made and nominations solicited for no less than two weeks.
+Candidates who have accepted their nomination (self nominations are allowed) should write a short statement supporting their candidacy, which will be made public as soon as possible, but no later than before the election starts.
+* Election: All candidates that have written statement will be put to a vote of the Project Custodians and the candidate with the most votes shall be elected to the position.
+In the event that more than one position has to be filled simultaneously each position shall be filled as if it were an independent election.
+
+#### Term
+
+Each position on the Steering Committee has a term of three years, from the date of the announcement of the election results.
+
+If there is a vacancy part way through a term, then a by-election will be held where the candidate elected to the committee will serve the remainder of the term of the member they are replacing.
+
+For the first election of the coordinating committee, one member will have a one year term, one member a two year term and one member a three year term.
+The term length of the elected candidates may be decided between themselves, in the case agreement can not be reached the person elected to the financial officer role will serve three years, the deputy lead developer two years and the lead developer one year.
+
+#### Removing Steering Committee or Advisory Board Members
+
+In exceptional circumstances, the Project Custodians may remove one or more sitting Steering Committee or Advisory Board members via a single vote.
+
+Such a vote is triggered when a Project Custodian calls for one publicly on an appropriate Project-wide communication channel, and two other active Project Custodians second the proposal.
+
+For the member(s) to be removed, two-thirds of the active Project Custodians (where the count includes the member being voted on if they are a Project Custodian) must vote in support of the removal.
+
+To avoid repeated removal votes, any individual Project Custodian who has called for, or seconded such a vote, may not call for or second a vote to remove any member(s) for one year from the original motion.
+
+### Advisory Board
+
+The primary functions of the Advisory Board are:
+
+* to advise the Steering Committee,
+* aid in finding funding for the project to ensure the core aims of the project can be met,
+* nominate a Ombudsperson,
+* ensure that the Project is being run consistent with the approved governance structure and the needs of the Community.
+
+The Advisory Board is self-electing, with members appointed by a vote of the existing Advisory Board.
+
+#### Membership
+
+* The Advisory Board shall consist of at least 3 members and no more than 5 members. The Advisory Board selects how many members within this range are needed.
+* All members shall serve a maximum of a two-year term, and may be re-appointed at the end of their term.
+* Membership terms should be staggered so that approximately half the number of members will end their terms in any given year.
+* The Advisory Board may appoint members to its number up to the maximum number of members.
+* The Advisory Board should work to ensure that the composition of the Advisory Board represents a diverse cross-section of the scientific community with an interest in SunPy. This diversity should consider things such as research topic, career stage, as well as all other forms of diversity.
+* An Advisory Board member may be removed by a two-thirds majority vote of the Advisory Board or by Project Custodians following the same procedure as for the removal of a member of the Steering Committee.
+
+#### Meetings
+
+* The Advisory Board shall meet with the Steering Committee at least every quarter.
+* At least one week (7 days) notice of a meeting shall be provided to all eligible to attend.
+* Notice of meetings shall provide the information necessary to participate in the meeting.
+* Minutes for the meetings shall be recorded and made public as much as is appropriate.
+
+The Advisory Board shall organize itself as it sees fit.
+
+#### Advise and Consent
+
+The Steering Committee shall present the state of the project and future plans at meetings of the Advisory Board on a yearly basis.
+The Advisory Board shall advise and consent on those plans.
+
+#### Requiring a Project Vote
+
+In the unlikely event that the Advisory Board does not agree with a decision made by the Steering Committee, it can require Project Custodians to consent to the decision through a vote (see below for process).
 
 ## Ombudsperson
 
