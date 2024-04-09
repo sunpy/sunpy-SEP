@@ -173,6 +173,26 @@ They should consider the above responsibilities and actively agree to taking the
 * Currently holds a role listed under the community roles section of the website: <https://sunpy.org/project/##community-roles>.
 * Is a currently serving Advisory Board member.
 
+Applying this set of criteria on 2024/04/09 resulted in the following people being the initial Project Custodians:
+
+* Stuart Mumford
+* Will Barnes
+* Laura Hayes
+* David Pérez-Suárez
+* Conor MacBride
+* Monica Bobra
+* Steven Christe
+* Russell Hewett
+* David Perez-Suarez
+* Tiago M. D. Pereira
+* Kevin Reardon
+* Albert Y. Shih
+* Nabil Freij
+* David Stansby
+* Alasdair Wilson
+* Daniel Ryan
+* Shane Maloney
+
 #### Adding New Project Custodians
 
 Anyone is eligible to be nominated to be a Project Custodian, as long as they meet the criteria laid out in the Membership section above.
