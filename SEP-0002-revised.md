@@ -247,7 +247,7 @@ For these votes, the motion will carry by a simple majority of those Project Cus
 ## Ombudsperson
 
 The Ombudsperson represents the interests of the Community by providing an alternative point of contact for sensitive issues such as code of conduct violations and ethical concerns.
-Candidates for this project role are publicly nominated by the Advisory Board, after which at least two weeks for comment is allowed, and then the nominee must be confirmed by two-thirds of the active Project Custodians.
+Candidates for this project role are publicly nominated by the Advisory Board, after which at least two weeks for comment is allowed, and then the nominee must be confirmed by two-thirds of the Project Custodians who voted in the election.
 
 The Ombudsperson has no term limit but can resign at any time, or be removed by the same process as removing a Project Custodian.
 In the period between removal/resignation and new appointment, the Steering Committee will temporarily take over the responsibilities of the Ombudsperson, should the need arise.
