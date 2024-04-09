@@ -184,9 +184,9 @@ The process for adding a new Project member is as follows:
 The Steering Committee, and the Ombudsperson check that the nomination is factually accurate and their record of contribution to the community adheres to the Code of Conduct.
 1. The candidate is then put to the Project Custodians.
 The name and nomination statement of the candidate will be shared with the Project Custodians.
-The candidate can become a Project Custodian if, during the two weeks following the candidate being put to the Project Custodians, five existing project custodians approve the candidate and no Project Custodians call for an election.
+The candidate can become a Project Custodian if, during the two weeks following the candidate being put to the Project Custodians, five existing Project Custodians approve the candidate and no Project Custodians call for an election.
 1. Project Custodians can call for an election either by informing the Steering Committee or the Ombudsperson.
-If a vote is called for then the candidate will be come a Project Custodian with a simple majority of all votes cast in the election.
+If a vote is called for then the candidate will become a Project Custodian with a simple majority of all votes cast in the election.
 An election needs to be announced to the Project Custodians one week before the voting opens and voting will be open for two weeks.
 1. The candidate will be informed promptly of the outcome by the Steering Committee.
 
