@@ -3,3 +3,6 @@ MD013: false
 
 # Inline HTML
 MD033: false
+
+# Duplicate Headings
+MD024: false
