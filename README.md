@@ -22,7 +22,7 @@ For a complete index see [SEP-0000](SEP-0000.md) this is reproduced here for con
 | number | type          | title                                       | DOI |
 |--------|---------------|---------------------------------------------|-----|
 |      1 | informational | [SEP Purpose and Guidelines](./SEP-0001.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261403.svg)](https://doi.org/10.5281/zenodo.3261403) |
-|      2 | process       | [SunPy Organization Definition](./SEP-0002.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261663.svg)](https://doi.org/10.5281/zenodo.3261663) |
+|      2 | process       | [SunPy Organization Definition](./SEP-0002.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11370378.svg)](https://doi.org/10.5281/zenodo.11370378) |
 |      3 | standard      | [Physical Units in SunPy](./SEP-0003.md) |  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261707.svg)](https://doi.org/10.5281/zenodo.3261707) |
 |      4 | process       | [Packages Affiliated with the SunPy Project](./SEP-0004.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261752.svg)](https://doi.org/10.5281/zenodo.3261752) |
 |      5 | standard      | [Coordinates Module](./SEP-0005.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261768.svg)](https://doi.org/10.5281/zenodo.3261768) |
