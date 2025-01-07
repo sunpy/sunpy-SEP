@@ -31,7 +31,7 @@ For a complete index see [SEP-0000](SEP-0000.md) this is reproduced here for con
 |      8 | standard      | [Astropy Time](./SEP-0008.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261794.svg)](https://doi.org/10.5281/zenodo.3261794) |
 |      9 | process       | [Release Pattern for SunPy Core](./SEP-0009.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3261800.svg)](https://doi.org/10.5281/zenodo.3261800) |
 |     10 | informational | [Vision and Mission Statement](./SEP-0010.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7020094.svg)](https://doi.org/10.5281/zenodo.7020094) |
-|     12 | standard      | [NDCube 2](./SEP-0012.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7020103.svg)](https://doi.org/10.5281/zenodo.7020103)
+|     12 | standard      | [NDCube 2](./SEP-0012.md) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7020103.svg)](https://doi.org/10.5281/zenodo.7020103) |
 
 ## Uploading an SEP to Zenodo
 
@@ -41,13 +41,13 @@ Go to <https://zenodo.org/deposit/new>, upload the .md file, and set the fields 
 |-----------------------------| -------------------------------------------------------|
 |Communities                  | The SunPy Project                                      |
 |Upload type                  | Publication                                            |
-|Publication type             | Technical note
-|Publication Date             | The accepted date of the SEP|
-|Title                        | SunPy Proposal for Enhancement `<number>`: `<title>` (SEP `<number>`)|
-|Authors                      | The SEP authors (directly from the SEP text with ORCID IDs if available)|
-|Description                  | The SEP description (usually the introduction)|
-|Keywords                     | SunPy, Python, Solar, Astronomy
-|License                      | CC-Attribution|
-|Related/alternate identifiers| Github link to the SEP *at the latest commit* as "is supplemented by this upload". If this is a revised version, this should be the URL of the commit where the SEP was revised.|
+|Publication type             | Technical note |
+|Publication Date             | The accepted date of the SEP |
+|Title                        | SunPy Proposal for Enhancement `<number>`: `<title>` (SEP `<number>`) |
+|Authors                      | The SEP authors (directly from the SEP text with ORCID IDs if available) |
+|Description                  | The SEP description (usually the introduction) |
+|Keywords                     | SunPy, Python, Solar, Astronomy |
+|License                      | CC-Attribution |
+|Related/alternate identifiers| Github link to the SEP *at the latest commit* as "is supplemented by this upload". If this is a revised version, this should be the URL of the commit where the SEP was revised. |
 
 Also add to the SunPy Project community.
